@@ -23,7 +23,16 @@ A curated collection of projects showcasing my journey in **AI, Machine Learning
   Educational project designed to support learning with structured datasets and predictive modeling.  
 
 - **Texas Salary Prediction**  
-  Salary estimation using regression techniques, highlighting regional economic trends.  
+  Salary estimation using regression techniques, highlighting regional economic trends.
+
+-  **IndiSignLang**  
+Accessibility-focused project on Indian Sign Language recognition using deep learning.
+
+- **Traffic Sign Recognition**  
+Computer vision project using CNNs to classify and recognize traffic signs for autonomous driving.
+
+- **Pneumonia Chest X-Ray Classification**  
+Deep learning project (CNN, VGG16, ResNet50) for medical imaging — classifying chest X-rays to detect pneumonia.
 
 ## 🛠️ Skills & Tools  
 
