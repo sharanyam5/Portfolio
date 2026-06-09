@@ -34,6 +34,8 @@ Computer vision project using CNNs to classify and recognize traffic signs for a
 - **Pneumonia Chest X-Ray Classification**  
 Deep learning project (CNN, VGG16, ResNet50) for medical imaging — classifying chest X-rays to detect pneumonia.
 
+- **Quora Duplicate Questions**  
+Natural language processing project using deep learning and similarity measures to identify duplicate questions on Quora, improving search relevance and user experience.
 ## 🛠️ Skills & Tools  
 
 - Languages: Python, SQL  
